@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/:path*",
-      "destination": "https://pabio.com/:path*"
+      "destination": "https://pabio.com/:path*",
       "permanent": true
     }
   ]
